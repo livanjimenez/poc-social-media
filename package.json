@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/livanjimenez/poc-social-media/issues"
   },
-  "homepage": "https://github.com/livanjimenez/poc-social-media#readme"
+  "homepage": "https://github.com/livanjimenez/poc-social-media#readme",
+  "dependencies": {
+    "react-redux": "^7.2.1"
+  }
 }
