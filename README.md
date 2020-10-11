@@ -1,3 +1,3 @@
 #### social media, proof of concept
-[] reactjs
-[] redux
+[x] reactjs
+[x] redux
